@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Hashir!
 
-## About Me
-
 - 🎓 I'm currently a student at Saint Louis University studying Computer Science.
 - 💻 I’m passionate about web design, UI/UX trends, and increasing my knowledge in DSA 😂. 
 - 🛠️ I’m currently working on a personal portfolio website to display projects that I have been working on.
