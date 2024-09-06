@@ -8,6 +8,6 @@
 
 ## 🧑‍💻 My Skills
 
-- **Languages:** Python, C++, TypeScript, JavaScript, CSS
+- **Languages:** Python, C++, TypeScript, JavaScript, CSS, HTML
 - **Tools & Frameworks:** React, Streamlit, Selenium, Langchain, BeautifulSoup
 - **Technologies & Tools:** Git, PostgreSQL, Ollama LLM, Figma, VS Code, MS Office
