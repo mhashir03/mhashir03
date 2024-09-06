@@ -8,6 +8,6 @@
 
 ## 🧑‍💻 My Skills
 
-- **Languages:** Python, C++, SCSS, HTML, JavaScript
-- **Tools & Frameworks:** Pygame, React, TanStack Query, ChakraUI
-- **Technologies & Tools:** Git, MongoDB, Figma, VS Code, MS Office
+- **Languages:** Python, C++, TypeScript, JavaScript, CSS
+- **Tools & Frameworks:** React, Streamlit, Selenium, Langchain, BeautifulSoup
+- **Technologies & Tools:** Git, PostgreSQL, Ollama LLM, Figma, VS Code, MS Office
