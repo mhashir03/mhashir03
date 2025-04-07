@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hashir!
 
-- 🎓 I'm currently a student at Saint Louis University studying Computer Science.
-- 💻 I’m passionate about AI and the future that it holds for us!
-- 🛠️ I’m currently working on a personal portfolio website!
-- ⚡ in the process of working on a SaaS.... ^.> 
+- 🎓 Computer Science student at Saint Louis University
+- 💻 Passionate about AI and its potential
+- 🛠️ Studying UI/UX trends in 2025
+- ⚡ In the process of building a SaaS... 
